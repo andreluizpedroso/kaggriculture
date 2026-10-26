@@ -40,4 +40,4 @@ Rodar partidas locais contra os agentes `random` e `starter` (várias seeds, rep
 ## Links
 
 - Competição: https://www.kaggle.com/competitions/kaggriculture
-- Repositório: https://github.com/andreluizpedroso/Kaggriculture
+- Repositório: https://github.com/andreluizpedroso/kaggriculture
